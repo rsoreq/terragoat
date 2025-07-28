@@ -119,7 +119,7 @@
     "incremental-dom": "0.7.0",
     "jasmine": "^3.5.0",
     "jasmine-ajax": "^4.0.0",
-    "jasmine-core": "^3.5.0",
+    "jasmine-core": "^5.0.0",
     "jquery": "3.7.1",
     "js-levenshtein": "^1.1.6",
     "karma": "~6.4.0",

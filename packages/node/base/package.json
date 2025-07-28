@@ -202,6 +202,6 @@
     "@babel/traverse": "7.8.6",
     "@babel/types": "7.8.6",
     "**/https-proxy-agent": "5.0.1",
-    "**/saucelabs": "7.1.2"
+    "**/saucelabs": "9.0.2"
   }
 }

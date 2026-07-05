@@ -118,7 +118,7 @@
     "http-server": "^14.0.0",
     "incremental-dom": "0.7.0",
     "jasmine": "^3.5.0",
-    "jasmine-ajax": "^4.0.0",
+    "jasmine-ajax": "^5.0.0",
     "jasmine-core": "^3.5.0",
     "jquery": "3.7.1",
     "js-levenshtein": "^1.1.6",

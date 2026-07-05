@@ -172,7 +172,7 @@
     "glob": "7.2.3",
     "gulp": "^4.0.2",
     "gulp-conventional-changelog": "^2.0.35",
-    "husky": "7.0.4",
+    "husky": "9.1.7",
     "inquirer": "^8.2.0",
     "karma-sauce-launcher": "^4.3.6",
     "madge": "^5.0.1",

@@ -63,7 +63,7 @@
     "@bazel/rollup": "4.4.2",
     "@bazel/runfiles": "4.4.2",
     "@bazel/terser": "4.4.2",
-    "@bazel/typescript": "4.4.2",
+    "@bazel/typescript": "5.8.1",
     "@microsoft/api-extractor": "7.52.8",
     "@rollup/plugin-babel": "^6.0.0",
     "@rollup/plugin-commonjs": "^21.0.0",

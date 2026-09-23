@@ -175,7 +175,7 @@
     "husky": "7.0.4",
     "inquirer": "^8.2.0",
     "karma-sauce-launcher": "^4.3.6",
-    "madge": "^5.0.1",
+    "madge": "^8.0.0",
     "multimatch": "^6.0.0",
     "semver": "^7.7.2",
     "ts-node": "^10.4.0",

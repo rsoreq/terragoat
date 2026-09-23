@@ -160,7 +160,7 @@
     "@bazel/bazelisk": "^1.7.5",
     "@bazel/buildifier": "^4.0.1",
     "@bazel/ibazel": "^0.15.8",
-    "@octokit/graphql": "^4.6.1",
+    "@octokit/graphql": "^9.0.0",
     "@types/cldrjs": "^0.4.22",
     "@types/cli-progress": "^3.9.2",
     "@yarnpkg/lockfile": "^1.1.0",

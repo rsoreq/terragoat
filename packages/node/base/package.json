@@ -61,7 +61,7 @@
     "@bazel/jasmine": "4.4.2",
     "@bazel/protractor": "4.4.2",
     "@bazel/rollup": "4.4.2",
-    "@bazel/runfiles": "4.4.2",
+    "@bazel/runfiles": "6.5.0",
     "@bazel/terser": "4.4.2",
     "@bazel/typescript": "4.4.2",
     "@microsoft/api-extractor": "7.52.8",
